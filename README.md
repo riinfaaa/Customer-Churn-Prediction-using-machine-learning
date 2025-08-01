@@ -86,20 +86,20 @@ Models ready for deployment in retention analytics, dashboards, or automated int
 
 ## 🛠️ Tech Stack
 
-Tool	Purpose
+Tool	                   Purpose
 
-Python	Primary programming language
+Python	          Primary programming language
 
-Pandas	Data manipulation
+Pandas       	    Data manipulation
 
-NumPy	Numerical computing
+NumPy	            Numerical computing
 
-Seaborn	Exploratory data visualization
+Seaborn	          Exploratory data visualization
 
-Matplotlib	Statistical plotting
+Matplotlib	      Statistical plotting
 
-Scikit-learn	ML modeling, tuning, validation
+Scikit-learn	    ML modeling, tuning, validation
 
-Google Colab	Cloud-based notebook environment
+Google Colab	    Cloud-based notebook environment
 
 
